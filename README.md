@@ -2,4 +2,4 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,ae)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,ae,bash,bootstrap,c,cs,cpp,d3,discord,docker,django,electron,express,figma,firebase,gcp,github,git,gmail,ai,idea,java,linkedin,linux,materialui,mongodb,mysql,nextjs,nodejs,opencv,postman,powershell,py,react,regex,tailwind,ts,vercel,vite,vscode,webpack,)](https://skillicons.dev)
