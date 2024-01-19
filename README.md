@@ -8,10 +8,10 @@
 
 <h1>My Stats</h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harismehboob142)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-xi-jet-47.vercel.app/api?username=harismehboob142)](https://github.com/anuraghazra/github-readme-stats)
 
 https://github-readme-stats-xi-jet-47.vercel.app/
 
 <h1>Quote</h1>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/harismehboob142/github-readme-stats)
