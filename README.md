@@ -8,7 +8,7 @@
 
 <h1>My Stats</h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats-xi-jet-47.vercel.app/api?username=harismehboob142)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-xi-jet-47.vercel.app/api?username=harismehboob142)](https://github.com/harismehboob142/github-readme-stats)
 
 https://github-readme-stats-xi-jet-47.vercel.app/
 
