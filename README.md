@@ -3,7 +3,7 @@
 <h1>My Skills</h1>
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,electron,express,docker,html,css,firebase,arduino,ae,bash,bootstrap,c,cs,cpp,d3,discord,django,figma,gcp,github,git,gmail,ai,idea,java,linkedin,linux,materialui,mongodb,mysql,opencv,postman,powershell,py,regex,tailwind,vercel,vite,vscode,webpack,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,electron,express,docker,html,css,firebase,arduino,ae,bash,bootstrap,c,cs,cpp,d3,discord,django,figma,gcp,github,git,gmail,ai,idea,java,linkedin,linux,materialui,mongodb,mysql,opencv,postman,powershell,py,regex,tailwind,vercel,vite,vscode,webpack,graphql)](https://skillicons.dev)
 
 
 <h1>My Stats</h1>
