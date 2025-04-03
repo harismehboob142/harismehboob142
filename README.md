@@ -8,15 +8,14 @@
 
 <h1>My Stats</h1>
 
-[![Haris' GitHub stats](https://github-readme-stats-xi-jet-47.vercel.app/api?username=harismehboob142)](https://github.com/harismehboob142/github-readme-stats)
-[![Office GitHub stats](https://github-readme-stats-xi-jet-47.vercel.app/api?username=omair-bhatti)](https://github.com/harismehboob142/github-readme-stats)
+[![Haris' GitHub stats](https://https://github-readme-stats-lilac-kappa-94.vercel.app/api?username=harismehboob142)](https://github.com/harismehboob142/github-readme-stats)
+[![Office GitHub stats](https://https://github-readme-stats-lilac-kappa-94.vercel.app/api?username=omair-bhatti)](https://github.com/harismehboob142/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-xi-jet-47.vercel.app/api/top-langs/?username=harismehboob142)](https://github.com/harismehboob142/github-readme-stats)
-[![Office Langs](https://github-readme-stats-xi-jet-47.vercel.app/api/top-langs/?username=omair-bhatti)](https://github.com/harismehboob142/github-readme-stats)
+[![Top Langs](https://https://github-readme-stats-lilac-kappa-94.vercel.app/api/top-langs/?username=harismehboob142)](https://github.com/harismehboob142/github-readme-stats)
+[![Office Langs](https://https://github-readme-stats-lilac-kappa-94.vercel.app/api/top-langs/?username=omair-bhatti)](https://github.com/harismehboob142/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=harismehboob142)](https://github.com/harismehboob142/github-readme-stats)
+[![Harlok's WakaTime stats](https://https://github-readme-stats-lilac-kappa-94.vercel.app/api/wakatime?username=harismehboob142)](https://github.com/harismehboob142/github-readme-stats)
 
-https://github-readme-stats-xi-jet-47.vercel.app/
 
 <h1>Quote</h1>
 
